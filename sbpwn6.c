@@ -340,6 +340,7 @@ int main(){
     uint32_t patch_location;
     uint32_t vn_getpath;
     uint32_t memcmp_addr;
+    uint32_t syscall_zero;
     uint32_t syscall0_start;
     
     uint32_t sz;
